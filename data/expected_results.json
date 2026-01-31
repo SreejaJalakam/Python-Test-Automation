@@ -1,0 +1,32 @@
+[
+  {
+    "test_id": "TC_001",
+    "expected_output": 75,
+    "tolerance": 2,
+    "description": "Engine temperature sensor reading"
+  },
+  {
+    "test_id": "TC_002",
+    "expected_output": 120,
+    "tolerance": 5,
+    "description": "Fuel pressure validation"
+  },
+  {
+    "test_id": "TC_003",
+    "expected_output": 3500,
+    "tolerance": 100,
+    "description": "RPM stability test"
+  },
+  {
+    "test_id": "TC_004",
+    "expected_output": 98.5,
+    "tolerance": 1.5,
+    "description": "Oxygen sensor calibration"
+  },
+  {
+    "test_id": "TC_005",
+    "expected_output": 45,
+    "tolerance": 3,
+    "description": "Throttle position sensor"
+  }
+]

@@ -1,0 +1,11 @@
+# Python Test Automation & Log Analyzer
+# No external dependencies required - uses only standard Python libraries
+
+# Minimum Python version: 3.7+
+# Standard libraries used:
+# - json (data parsing)
+# - csv (report generation)
+# - re (log parsing with regex)
+# - os (file operations)
+# - datetime (timestamps)
+# - logging (future enhancement)

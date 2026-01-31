@@ -1,0 +1,25 @@
+[2026-01-31 10:15:20] [INFO] Test suite initialization started
+[2026-01-31 10:15:21] [INFO] Loading test configuration
+[2026-01-31 10:15:22] [DEBUG] Connecting to test hardware
+[2026-01-31 10:15:23] [INFO] Test TC_001 started - Engine temperature sensor reading
+[2026-01-31 10:15:23] [DEBUG] Sensor reading = 77
+[2026-01-31 10:15:24] [INFO] Test TC_001 completed
+[2026-01-31 10:16:40] [INFO] Test TC_002 started - Fuel pressure validation
+[2026-01-31 10:16:42] [DEBUG] Sensor reading = 118
+[2026-01-31 10:16:43] [WARN] Reading slightly below expected range
+[2026-01-31 10:16:45] [INFO] Test TC_002 completed
+[2026-01-31 10:18:10] [INFO] Test TC_003 started - RPM stability test
+[2026-01-31 10:18:11] [DEBUG] Sensor reading = 3650
+[2026-01-31 10:18:11] [WARN] Delay detected in signal response
+[2026-01-31 10:18:12] [WARN] RPM fluctuation observed
+[2026-01-31 10:18:12] [INFO] Test TC_003 completed
+[2026-01-31 10:19:30] [INFO] Test TC_004 started - Oxygen sensor calibration
+[2026-01-31 10:19:32] [DEBUG] Sensor reading = 95.2
+[2026-01-31 10:19:33] [ERROR] Calibration drift detected - outside tolerance
+[2026-01-31 10:19:34] [INFO] Test TC_004 completed
+[2026-01-31 10:20:50] [INFO] Test TC_005 started - Throttle position sensor
+[2026-01-31 10:20:54] [DEBUG] Sensor reading = 48
+[2026-01-31 10:20:55] [WARN] Minor deviation from baseline
+[2026-01-31 10:20:56] [INFO] Test TC_005 completed
+[2026-01-31 10:21:00] [INFO] Test suite execution completed
+[2026-01-31 10:21:01] [INFO] Generating final report

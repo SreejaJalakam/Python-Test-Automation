@@ -1,0 +1,27 @@
+[
+    {
+        "test_id": "TC_001",
+        "actual_output": 77,
+        "timestamp": "2026-01-31T10:15:23"
+    },
+    {
+        "test_id": "TC_002",
+        "actual_output": 118,
+        "timestamp": "2026-01-31T10:16:45"
+    },
+    {
+        "test_id": "TC_003",
+        "actual_output": 3650,
+        "timestamp": "2026-01-31T10:18:12"
+    },
+    {
+        "test_id": "TC_004",
+        "actual_output": 95.2,
+        "timestamp": "2026-01-31T10:19:34"
+    },
+    {
+        "test_id": "TC_005",
+        "actual_output": 48,
+        "timestamp": "2026-01-31T10:20:56"
+    }
+]
