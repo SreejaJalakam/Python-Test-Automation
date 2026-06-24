@@ -331,5 +331,3 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 **Sreeja Jalakam**
-
-Built for RTX Interview Preparation - Demonstrating verification and validation skills for embedded systems.
